@@ -29,3 +29,4 @@
 * `readme.md` : 요약 및 추가 분석
 * `weatherAUS.R`: 인자분석 스코어링, 임계값 서치 및 로지스틱 회귀 수행 R 소스코드
 * `weatherAUS.pptx`: 학부 수업 연구 내용 및 통계 모형 적합 최종 발표 자료
+* `weatherAUS.csv` : 원본 데이터
